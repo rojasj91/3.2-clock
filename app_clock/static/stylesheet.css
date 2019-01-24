@@ -1,0 +1,13 @@
+body {
+    background-color: navajowhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#clock {
+    font-size: 48px;
+    letter-spacing: 20px;
+
+}
