@@ -41,7 +41,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    
+    'sleepy-ravine-94617.herokuapp.com'
 ]
 
 
